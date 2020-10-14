@@ -114,69 +114,69 @@
 		/*	Testimonials Rotator
 		/*----------------------------------------------------*/
 	
-		var owl = $('.reviews-holder');
-			owl.owlCarousel({
-				items: 4,
-				loop:true,
-				autoplay:true,
-				navBy: 1,
-				autoplayTimeout: 4500,
-				autoplayHoverPause: false,
-				smartSpeed: 1500,
-				responsive:{
-					0:{
-						items:1
-					},
-					767:{
-						items:1
-					},
-					768:{
-						items:2
-					},
-					991:{
-						items:3
-					},
-					1000:{
-						items:4
-					}
-				}
-		});
+// 		var owl = $('.reviews-holder');
+// 			owl.owlCarousel({
+// 				items: 4,
+// 				loop:true,
+// 				autoplay:true,
+// 				navBy: 1,
+// 				autoplayTimeout: 4500,
+// 				autoplayHoverPause: false,
+// 				smartSpeed: 1500,
+// 				responsive:{
+// 					0:{
+// 						items:1
+// 					},
+// 					767:{
+// 						items:1
+// 					},
+// 					768:{
+// 						items:2
+// 					},
+// 					991:{
+// 						items:3
+// 					},
+// 					1000:{
+// 						items:4
+// 					}
+// 				}
+// 		});
 
 
 		/*----------------------------------------------------*/
 		/*	Brands Logo Rotator
 		/*----------------------------------------------------*/
 	
-		var owl = $('.brands-logo-holder');
-			owl.owlCarousel({
-				items: 6,
-				loop:true,
-				autoplay:true,
-				navBy: 1,
-				autoplayTimeout: 4000,
-				autoplayHoverPause: false,
-				smartSpeed: 1500,
-				responsive:{
-					0:{
-						items:2
-					},
-					640:{
-						items:3
-					},
-					767:{
-						items:3
-					},
-					768:{
-						items:4
-					},
-					991:{
-						items:4
-					},				
-					1000:{
-						items:5
-					}
-				}
-		});
+// 		var owl = $('.brands-logo-holder');
+// 			owl.owlCarousel({
+// 				items: 6,
+// 				loop:true,
+// 				autoplay:true,
+// 				navBy: 1,
+// 				autoplayTimeout: 4000,
+// 				autoplayHoverPause: false,
+// 				smartSpeed: 1500,
+// 				responsive:{
+// 					0:{
+// 						items:2
+// 					},
+// 					640:{
+// 						items:3
+// 					},
+// 					767:{
+// 						items:3
+// 					},
+// 					768:{
+// 						items:4
+// 					},
+// 					991:{
+// 						items:4
+// 					},				
+// 					1000:{
+// 						items:5
+// 					}
+// 				}
+// 		});
 
 
 		/*----------------------------------------------------*/
